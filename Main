@@ -2,7 +2,7 @@
 // @name         Blooket Gui
 // @namespace    http://tampermonkey.net/
 // @version      1.4.5
-// @author       Gradyruan
+// @author       Jamesybond
 // @license      MIT
 // @description  An Updated version of Minesraft2 and 05konzs' blooket cheats. Try not to abuse too many cheats at once or you'll crash. You can press ctrl+e to hide
 // @match        *://*.blooket.com/*
@@ -20,7 +20,7 @@
 * You may not under any circumstance republish any code from this file as your own.
 * 
 * ALL TERMS STATED IN THE LINK BELOW APPLY ASWELL
-* https://github.com/Gradyruan/Blooket-Cheats/blob/main/LICENSE
+* https://github.com/Jamesybond/Blooket_hacks/blob/main/LICENSE
 */
  
 (function() {
