@@ -2852,7 +2852,7 @@
                     cursor: "pointer"
                 },
                 href: "https://github.com/Jamesybond/Blooket_hacks"
-            }, "GitHub - Gradyruan")), makeElement("div", {
+            }, "GitHub - Jamesybond")), makeElement("div", {
                 id: styles.keys.cheatList
             }, makeElement(AntiBen, {
                 type: "span",
